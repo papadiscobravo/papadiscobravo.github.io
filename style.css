@@ -1,0 +1,17 @@
+h1 {color:blue;
+    font-size: 48px; 
+    text-decoration: underline;}
+  
+    h2 {color:blue;
+    font-size: 36px; }
+  
+    img {
+      margin-left: auto;
+      margin-right: auto;
+      display: block;
+    }
+  
+  p {
+    text-font-family: sans-serif
+  }
+  
