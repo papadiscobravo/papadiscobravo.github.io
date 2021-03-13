@@ -12,6 +12,5 @@ h1 {color:blue;
     }
   
   p {
-    text-font-family: sans-serif
-  }
-  
+    font: italic normal 1.4em georgia, sans-serif;
+    }
